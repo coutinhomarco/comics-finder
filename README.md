@@ -1,7 +1,7 @@
 <h2>Comics Finder</h2>
 <h3>Realizado durante curso de Desenvolvimento da Trybe</h3>
-
-Esse projeto foi feito pensando em facilitar o encontro tanto de Comics de personagens do Universo Marvel quanto informações sobre o mesmo.
+<hr>
+<h4>Esse projeto foi feito pensando em facilitar o encontro tanto de Comics de personagens do Universo Marvel quanto informações sobre o mesmo.</h4>
 <br>
 Projeto bônus realizado para concretizar e consolidar todos conhecimentos
 obtidos no Módulo de Fundamentos de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>
